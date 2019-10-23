@@ -2,7 +2,7 @@
 PIP: 1
 Title: The PIP Governance Proposal Process
 Author: Vivi
-Status: Approved
+Status: draft
 Created: 2019-10-21
 ---
 
